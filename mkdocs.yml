@@ -1,12 +1,13 @@
 site_name: ' ' 
+site_url: https://whyziks.github.io/croww/
 
 theme: 
   name: material
   font:
     code: Jetbrains Mono
     text: Roboto
-  logo: assets/logo.avif
-  favicon: assets/logo.avif
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
   features:
     - navigation.footer
   palette:

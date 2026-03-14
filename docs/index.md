@@ -1,4 +1,4 @@
-<img src ="/assets/image.jpg" style = "border-radius:15px;">
+<img src ="assets/image.jpg" style = "border-radius:15px;">
 # :material-hand-wave: **Добро пожаловать!**
 
 
