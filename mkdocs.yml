@@ -1,0 +1,36 @@
+site_name: ' ' 
+
+theme: 
+  name: material
+  font:
+    code: Jetbrains Mono
+    text: Roboto
+  logo: assets/logo.avif
+  favicon: assets/logo.avif
+  features:
+    - navigation.footer
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep grey
+extra_css: 
+  - stylesheets/extra.css
+nav:
+
+   - 'Добро пожаловать!': 'index.md'
+   - 'Правила': 'rules.md'
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+extra:
+  social:
+    - icon: /simple/discord
+      link: https://discord.gg/fKPNDYVxjB
+    - icon: simple/telegram
+      link: https://t.me/croww_mc
