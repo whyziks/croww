@@ -11,16 +11,19 @@
 	background-color: #222223 !important;
 }
 .md-footer__link{
-  border:white solid 1px;
+  border:#8e8f92 solid 1px;
   border-radius:5px;
 }
 .md-footer-meta{
 	background-color: #222223 !important;
 }
-.md-nav --primary{
-  background-color: #222223 !important;
-}
+
 /*рамки*/
 .md-typeset details.info > summary {
   font-size:18px;
+}
+
+/*таблица*/
+.md-typeset table {
+    background-color: #f3f3f3; /* Замените на нужный цвет */
 }

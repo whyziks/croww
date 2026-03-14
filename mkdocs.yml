@@ -3,6 +3,8 @@ site_url: https://whyziks.github.io/croww/
 
 theme: 
   name: material
+  hide:
+    - toc
   font:
     code: Jetbrains Mono
     text: Roboto
@@ -20,6 +22,11 @@ nav:
 
    - 'Добро пожаловать!': 'index.md'
    - 'Правила': 'rules.md'
+   - 'Крафты': 'crafts.md'
+   - 'Команды': 'commands.md'
+   - 'Фишки':
+     - 'Показать ник': 'nickname.md'
+
 
 
 markdown_extensions:

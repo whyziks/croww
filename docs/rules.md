@@ -1,4 +1,4 @@
-<img src = "assets/rules.jpg" style = "border-radius:15px;">
+<img src = "../assets/rules.jpg" style = "border-radius:15px;">
 
 #:octicons-book-16: **Правила**
 ??? info "Общие правила"
