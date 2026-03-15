@@ -2,22 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://whyziks.github.io/croww/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/armorposer/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/breweryx/</loc>
+         <lastmod>2026-03-15</lastmod>
     </url>
     <url>
          <loc>https://whyziks.github.io/croww/commands/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-03-15</lastmod>
     </url>
     <url>
          <loc>https://whyziks.github.io/croww/crafts/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/gryadki/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/kamnerez/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/kora/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/kotel/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/mention/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/messages/</loc>
+         <lastmod>2026-03-15</lastmod>
     </url>
     <url>
          <loc>https://whyziks.github.io/croww/nickname/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/plastinki/</loc>
+         <lastmod>2026-03-15</lastmod>
     </url>
     <url>
          <loc>https://whyziks.github.io/croww/rules/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/simplevoicechat/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/voicemessages/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://whyziks.github.io/croww/volleyball/</loc>
+         <lastmod>2026-03-15</lastmod>
     </url>
 </urlset>
